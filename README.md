@@ -7,10 +7,6 @@ The design of this robot arm was inspired by the following image:
 
 ![WhatsApp Image 2024-07-22 at 01 33 38_15e10b55](https://github.com/user-attachments/assets/acc2f26e-7b70-43d5-893a-37d297f337c1)
 
-
-*Image credit: [DFRobot](https://www.dfrobot.com/blog-986.html)*
-
-
 ## Images of the Design
 
 - Front View:
