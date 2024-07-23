@@ -5,7 +5,7 @@ This project involves designing a 3D robot arm with 5 degrees of freedom (DOF) u
 
 The design of this robot arm was inspired by the following image:
 
-![Robot Arm Inspiration](![WhatsApp Image 2024-07-22 at 01 33 38_15e10b55](https://github.com/user-attachments/assets/acc2f26e-7b70-43d5-893a-37d297f337c1)
+(![WhatsApp Image 2024-07-22 at 01 33 38_15e10b55](https://github.com/user-attachments/assets/acc2f26e-7b70-43d5-893a-37d297f337c1)
 
 
 *Image credit: [DFRobot](https://www.dfrobot.com/blog-986.html)*
